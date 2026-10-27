@@ -4,7 +4,7 @@
 
 ## 一键使用
 
-在你的 **VPS** 上执行（把 `你的用户名` 换成你的 GitHub 用户名）：
+**VPS** 上执行
 
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/8aot/longge-sni/main/longge.sh)
