@@ -1,4 +1,4 @@
-# longge-sni · 龍哥伪装网站检测
+# longge-sni · 检测
 
 一键检测 **Reality 伪装域名（SNI）** 的 TLS 握手延迟，并检查是否支持 **TLS 1.3 + HTTP/2**，适用于 s-ui / 3x-ui / Xray 等面板选择 `dest` / `serverNames`。
 
@@ -7,7 +7,7 @@
 在你的 **VPS** 上执行（把 `你的用户名` 换成你的 GitHub 用户名）：
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/你的用户名/longge-sni/main/longge.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/8aot/longge-sni/main/longge.sh)
 ```
 
 只检测指定域名：
